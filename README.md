@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @RITAMDAS01
 - 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: No one Knows Everything
 
 <!---
