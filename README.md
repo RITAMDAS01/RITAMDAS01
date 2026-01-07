@@ -11,22 +11,13 @@
 # MOUNTING_FILE_SYSTEM... [OK]
 # INITIATING_USER_PROFILE: RITAM_DAS
 
-  RRRRRRRRRRRRRRRRR   iiii            tttt                                            DDDDDDDDDDDDD                                              
-R::::::::::::::::R i::::i        ttt:::t                                            D::::::::::::DDD                                           
-R::::::RRRRRR:::::R i::::i        t:::::t                                            D:::::::::::::::DD                                         
-RR:::::R     R:::::R i::::i        t:::::t                                            D:::::DDDDD:::::D                                          
-  R::::R     R:::::R i::::i  ttttttt:::::ttttttt      aaaaaaaaaaaaa      mmmmmmm    mmmmmmm   D:::::D    D:::::D  aaaaaaaaaaaaa      ssssssssss   
-  R::::R     R:::::R i::::i  t:::::::::::::::::t      a::::::::::::a   mm:::::::m  m:::::::mm D:::::D     D:::::D a::::::::::::a   ss::::::::::s  
-  R::::RRRRRR:::::R  i::::i  t:::::::::::::::::t      aaaaaaaaa:::::a m::::::::::mm::::::::::mD:::::D     D:::::D aaaaaaaaa:::::ass:::::::::::::s 
-  R:::::::::::::RR   i::::i  tttttt:::::ttttttt                a::::a m::::::::::::::::::::::mD:::::D     D:::::D          a::::as::::::ssss:::::s
-  R::::RRRRRR:::::R  i::::i        t:::::t              aaaaaaa:::::a m:::::mmm::::::mmm:::::mD:::::D     D:::::D   aaaaaaa:::::a s:::::s  ssssss 
-  R::::R     R:::::R i::::i        t:::::t            aa::::::::::::a m::::m   m::::m   m::::mD:::::D     D:::::D aa::::::::::::a   s::::::s      
-  R::::R     R:::::R i::::i        t:::::t           a::::aaaa::::::a m::::m   m::::m   m::::mD:::::D     D:::::D a::::aaaa::::::a     s::::::s   
-  R::::R     R:::::R i::::i        t:::::t    tttttta::::a    a:::::a m::::m   m::::m   m::::mD:::::D    D:::::D a::::a    a:::::assssss   s:::::s
-RR:::::R     R:::::Ri::::::i       t::::::tttt:::::ta::::a    a:::::a m::::m   m::::m   m::::mD:::::DDDDD:::::D  a::::a    a:::::as:::::ssss::::::s
-R::::::R     R:::::Ri::::::i       tt::::::::::::::ta:::::aaaa::::::a m::::m   m::::m   m::::mD:::::::::::::::DD a:::::aaaa::::::as::::::::::::::s 
-R::::::R     R:::::Ri::::::i         tt:::::::::::tt a::::::::::aa:::am::::m   m::::m   m::::mD::::::::::::DDD    a::::::::::aa:::as:::::::::::ss 
-RRRRRRRR     RRRRRRRiiiiiiii           ttttttttttt    aaaaaaaaaa  aaaammmmmm   mmmmmm   mmmmmmDDDDDDDDDDDDD        aaaaaaaaaa  aaaa sssssssssss   
+______ _ _                  ______
+| ___ (_) |                 |  _  \
+| |_/ /_| |_ __ _ _ __ ___  | | | | __ _ ___
+|    /| | __/ _` | '_ ` _ \ | | | |/ _` / __|
+| |\ \| | || (_| | | | | | || |/ /| (_| \__ \
+\_| \_|_|\__\__,_|_| |_| |_||___/  \__,_|___/
+
 
            
           [ SECURITY OPERATIONS CENTER TERMINAL v2.0 ]
